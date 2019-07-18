@@ -40,3 +40,4 @@ default.etcd
 
 # A macOS metadata file
 .DS_Store
+.idea
